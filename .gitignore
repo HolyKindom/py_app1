@@ -1,0 +1,13 @@
+# Package Files #
+*.iml
+*.ipr
+*.iws
+*.bak
+.settings/
+.project
+.metadata/
+.idea/
+*.project
+*.classpath
+/.idea/workspace.xml
+/.idea
